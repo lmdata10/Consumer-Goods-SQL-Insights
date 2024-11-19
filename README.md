@@ -1,4 +1,4 @@
-# SQL Insights for Consumer Goods
+# AtliQ Hardware: Ad-Hoc SQL Insights for Consumer Goods Market Analysis
 
 Welcome to a SQL-based data analysis project designed to help consumer goods companies streamline data reporting and gain strategic insights for growth and profitability.
 ![Home Page](Home_page.png)
